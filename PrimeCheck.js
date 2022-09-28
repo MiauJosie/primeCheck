@@ -2,7 +2,7 @@ const num = Number(window.prompt('primeCheck'))
 
 function primeCheck(num) {
     if(Number.isNaN(num)) {
-        alert("O valor inserido não é um número válido")
+        alert("The inserted value is not a valid number")
         throw new Error()
     }
 
@@ -16,10 +16,10 @@ function primeCheck(num) {
     }
 
     if(primo === true && num !== 1) {
-        document.write(`${num} É um número primo`)
+        document.write(`${num} is prime`)
         
     } else {
-        document.write(`${num} Não é um número primo`)
+        document.write(`${num} is not prime`)
     }
 }
 
