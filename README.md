@@ -1,2 +1,3 @@
 # primeCheck
  
+✔️ s
