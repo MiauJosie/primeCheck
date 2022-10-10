@@ -4,4 +4,4 @@
 
 The live project can be accessed [here](https://miautoofu.github.io/primeCheck/).
 
-[![image](https://user-images.githubusercontent.com/100611122/194940267-56dc15cf-39cc-4fe3-956c-9f6ebab25a67.png)](https://miautoofu.github.io/primeCheck/)
+[![image](https://user-images.githubusercontent.com/100611122/194940521-aaa61304-9136-4e16-9f06-4baed90df7f8.png)](https://miautoofu.github.io/primeCheck/)
